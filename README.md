@@ -1,4 +1,7 @@
-## Hi there 👋
+# Israel Mikkelson
+
+## Undergraduate at Washington and Lee
+
 
 <!--
 **izzymikk/izzymikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
