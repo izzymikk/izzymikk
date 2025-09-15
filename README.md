@@ -1,6 +1,7 @@
 # Israel Mikkelson
 
-## Undergraduate at Washington and Lee
+### Student-Athlete at Washington and Lee
+### Studying Math, Computer Science, and Japanese
 
 
 <!--
