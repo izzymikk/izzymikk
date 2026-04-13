@@ -1,8 +1,4 @@
-# Israel Mikkelson
-
-*Student-Athlete at Washington and Lee*
-
-*Studying Math, Computer Science, and Japanese*
+izzymikk
 
 
 <!--
